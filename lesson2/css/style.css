@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    font-family: tahoma;
+}
+
+h1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(200, 200, 200, 0.644);
+    font-weight: bold;
+}
+
+h2 {
+    color: hsl(39deg 71% 55%);
+    font-weight: bold;
+}
+
+div {
+    border: solid 3px grey;
+    border-radius: 20px 0px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+a {
+    display: inline-block;
+    color: rgb(255, 50, 50);
+    margin-left: 80%;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    margin-right: 90%;
+}
+
+p {
+    text-align: left;
+}
