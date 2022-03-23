@@ -27,9 +27,9 @@ div {
 }
 
 a {
-    display: inline-block;
+    display:block;
     color: rgb(255, 50, 50);
-    margin-left: 80%;
+    text-align:right;
     text-decoration: none;
     font-weight: bold;
 }
